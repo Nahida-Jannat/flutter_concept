@@ -203,7 +203,6 @@ flutter run -d linux
 
 ## 📊 App Screenshots
 
-<details>
 
 |            Todo List✅                |              Todo List✅              |            Gallery️ 🖼️              |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|
@@ -223,7 +222,7 @@ flutter run -d linux
 |:------------------------------------:|
 | <img src="assets/9.png" width="200"> |
 
-</details>
+
 
 
 ## 📄 License
